@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris",
+      "aliases": ["capital"]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answer": "Leonardo",
+      "aliases": ["Leonardo da vinci", "da vinci", "davinci"]
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "answer": "100",
+      "aliases": ["100 degrees", "100°C"]
+    }
+  ]
+}

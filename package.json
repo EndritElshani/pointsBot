@@ -1,0 +1,25 @@
+{
+    "name": "pointsbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/bot.js",
+    "scripts": {
+        "test": "node ."
+    },
+    "author": "EnEl",
+    "license": "ISC",
+    "dependencies": {
+        "@devraelfreeze/discordjs-pagination": "^2.7.2",
+        "@discordjs/rest": "^1.6.0",
+        "chalk": "^4.1.2",
+        "cron": "^2.3.0",
+        "discord-api-types": "^0.37.37",
+        "discord.js": "^14.8.0",
+        "dotenv": "^16.0.3",
+        "moment-timezone": "^0.5.43",
+        "mongodb": "^5.1.0",
+        "mongoose": "^7.0.3",
+        "node-cron": "^3.0.2",
+        "node-schedule": "^2.1.1"
+    }
+}
